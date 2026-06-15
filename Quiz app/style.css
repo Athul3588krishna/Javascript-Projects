@@ -1,0 +1,39 @@
+body{
+
+  font-family: Arial;
+
+  display:flex;
+
+  justify-content:center;
+
+  align-items:center;
+
+  height:100vh;
+
+}
+
+.container{
+
+  width:400px;
+
+  text-align:center;
+
+}
+
+button{
+
+  padding:10px;
+
+  margin:10px;
+
+  cursor:pointer;
+
+}
+
+.option{
+
+  display:block;
+
+  width:100%;
+
+}
